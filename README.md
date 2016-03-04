@@ -15,7 +15,7 @@ Example Channel ID: your channel ID
       - API Docs: https://developers.google.com/youtube/v3/docs/search/list
       - API Client: https://pypi.python.org/pypi/google-api-python-client/
       
-      If you pass the channel ID as filter without any search query you will get all the videos in channel with a paginated result.
+      Pass the channel ID as filter without any search query you will get all the videos in channel with a paginated result.
  
 Django Rest Framework to create a couple of API endpoint to list the YouTube videos.
 
