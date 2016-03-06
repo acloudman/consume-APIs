@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'youtube_drf.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql', 
+        'ENGINE': 'django.db.backends.mysql',
         'NAME': 'youtube',
         'USER': 'root',
         'PASSWORD': 'root',
@@ -126,3 +126,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 STATIC_URL = '/static/'
+
+#youtube credential
+YOUTUBE_API_KEY = 'AIzaSyD2w781nUGKOAEBo5QfwGsXT0Z2lv3f8ro'
+YOUTUBE_API_SERVICE_NAME = "youtube"
+YOUTUBE_API_VERSION = "v3"
