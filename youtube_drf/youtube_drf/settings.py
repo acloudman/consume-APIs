@@ -128,6 +128,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 #youtube credential
-YOUTUBE_API_KEY = 'AIzaSyD2w781nUGKOAEBo5QfwGsXT0Z2lv3f8ro'
+YOUTUBE_API_KEY = #youtube API key
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
