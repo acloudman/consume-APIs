@@ -2,7 +2,7 @@
 This is a small Application using Python/Django REST framework
 
 Django application with a simple ORM class to work with YouTube videos.                                                             
-Use following parameters:
+
 
       - YouTube video ID
       - Video Title
